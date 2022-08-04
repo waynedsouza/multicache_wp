@@ -1,0 +1,1 @@
+jQuery(function() {jQuery("img.multicache_lazy").show().lazyload();});
